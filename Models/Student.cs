@@ -2,14 +2,15 @@
 
 namespace LC_02.Models
 {
-    public class Professor
+    public class Student
     {
-        public int ProfessorId { get; set; }
+        public int StudentId { get; set; }
         public string Email { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string Title { get; set; }
-        public virtual List<Student> Students { get; set; }
+        public List<Project> Projects { get; set; }
+        public int ProfessorId { get; set; }
         public string PhoneNumber { get; set; }
     }
 }
