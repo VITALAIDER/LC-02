@@ -5,28 +5,28 @@ namespace LC_02.Migrations
     using System.Data.Entity.Migrations;
     using System.Linq;
 
-    internal sealed class Configuration : DbMigrationsConfiguration<LC_02.Models.ProjectContext>
-    {
-        public Configuration()
-        {
-            AutomaticMigrationsEnabled = false;
-            ContextKey = "LC_02.Models.ProjectContext";
-        }
+    //internal sealed class Configuration : DbMigrationsConfiguration<LC_02.Models.ProjectContext>
+    //{
+    //    public Configuration()
+    //    {
+    //        AutomaticMigrationsEnabled = false;
+    //        ContextKey = "LC_02.Models.ProjectContext";
+    //    }
 
-        protected override void Seed(LC_02.Models.ProjectContext context)
-        {
-            //  This method will be called after migrating to the latest version.
+    //    //protected override void Seed(LC_02.Models.ProjectContext context)
+    //    //{
+    //    //    //  This method will be called after migrating to the latest version.
 
-            //  You can use the DbSet<T>.AddOrUpdate() helper extension method 
-            //  to avoid creating duplicate seed data. E.g.
-            //
-            //    context.People.AddOrUpdate(
-            //      p => p.FullName,
-            //      new Person { FullName = "Andrew Peters" },
-            //      new Person { FullName = "Brice Lambson" },
-            //      new Person { FullName = "Rowan Miller" }
-            //    );
-            //
-        }
-    }
+    //    //    //  You can use the DbSet<T>.AddOrUpdate() helper extension method 
+    //    //    //  to avoid creating duplicate seed data. E.g.
+    //    //    //
+    //    //    //    context.People.AddOrUpdate(
+    //    //    //      p => p.FullName,
+    //    //    //      new Person { FullName = "Andrew Peters" },
+    //    //    //      new Person { FullName = "Brice Lambson" },
+    //    //    //      new Person { FullName = "Rowan Miller" }
+    //    //    //    );
+    //    //    //
+    //    //}
+    //}
 }

@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Data.Entity.Migrations;
 using System.Web.Mvc;
-using LC_02.Models;
 
 namespace LC_02.Controllers
 {

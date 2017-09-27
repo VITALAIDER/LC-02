@@ -1,3 +1,7 @@
+E:\GitHub\LC-02\LC-02\obj\Debug\LC_02.Migrations.InitialCreate.resources
+E:\GitHub\LC-02\LC-02\obj\Debug\LC_02.Migrations.firstMigrationPhoneNumber.resources
+E:\GitHub\LC-02\LC-02\obj\Debug\LC-02.csproj.GenerateResource.Cache
+E:\GitHub\LC-02\LC-02\obj\Debug\LC-02.csprojResolveAssemblyReference.cache
 E:\GitHub\LC-02\LC-02\bin\ApplicationInsights.config
 E:\GitHub\LC-02\LC-02\bin\roslyn\csc.exe
 E:\GitHub\LC-02\LC-02\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
@@ -17,6 +21,7 @@ E:\GitHub\LC-02\LC-02\bin\LC-02.pdb
 E:\GitHub\LC-02\LC-02\bin\Antlr3.Runtime.dll
 E:\GitHub\LC-02\LC-02\bin\EntityFramework.dll
 E:\GitHub\LC-02\LC-02\bin\EntityFramework.SqlServer.dll
+E:\GitHub\LC-02\LC-02\bin\LC-02.Services.dll
 E:\GitHub\LC-02\LC-02\bin\Microsoft.AI.Agent.Intercept.dll
 E:\GitHub\LC-02\LC-02\bin\Microsoft.AI.DependencyCollector.dll
 E:\GitHub\LC-02\LC-02\bin\Microsoft.AI.PerfCounterCollector.dll
@@ -27,6 +32,8 @@ E:\GitHub\LC-02\LC-02\bin\Microsoft.ApplicationInsights.dll
 E:\GitHub\LC-02\LC-02\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 E:\GitHub\LC-02\LC-02\bin\Microsoft.Web.Infrastructure.dll
 E:\GitHub\LC-02\LC-02\bin\Newtonsoft.Json.dll
+E:\GitHub\LC-02\LC-02\bin\Omu.ValueInjecter.dll
+E:\GitHub\LC-02\LC-02\bin\SimpleInjector.dll
 E:\GitHub\LC-02\LC-02\bin\System.Web.Helpers.dll
 E:\GitHub\LC-02\LC-02\bin\System.Web.Mvc.dll
 E:\GitHub\LC-02\LC-02\bin\System.Web.Optimization.dll
@@ -35,6 +42,8 @@ E:\GitHub\LC-02\LC-02\bin\System.Web.WebPages.Deployment.dll
 E:\GitHub\LC-02\LC-02\bin\System.Web.WebPages.dll
 E:\GitHub\LC-02\LC-02\bin\System.Web.WebPages.Razor.dll
 E:\GitHub\LC-02\LC-02\bin\WebGrease.dll
+E:\GitHub\LC-02\LC-02\bin\LC-02.Data.dll
+E:\GitHub\LC-02\LC-02\bin\LC-02.Services.pdb
 E:\GitHub\LC-02\LC-02\bin\EntityFramework.xml
 E:\GitHub\LC-02\LC-02\bin\EntityFramework.SqlServer.xml
 E:\GitHub\LC-02\LC-02\bin\Microsoft.AI.DependencyCollector.xml
@@ -43,6 +52,9 @@ E:\GitHub\LC-02\LC-02\bin\Microsoft.AI.Web.xml
 E:\GitHub\LC-02\LC-02\bin\Microsoft.AI.WindowsServer.xml
 E:\GitHub\LC-02\LC-02\bin\Microsoft.ApplicationInsights.xml
 E:\GitHub\LC-02\LC-02\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\GitHub\LC-02\LC-02\bin\Omu.ValueInjecter.pdb
+E:\GitHub\LC-02\LC-02\bin\Omu.ValueInjecter.xml
+E:\GitHub\LC-02\LC-02\bin\SimpleInjector.xml
 E:\GitHub\LC-02\LC-02\bin\System.Web.Helpers.xml
 E:\GitHub\LC-02\LC-02\bin\System.Web.Mvc.xml
 E:\GitHub\LC-02\LC-02\bin\System.Web.Optimization.xml
@@ -52,9 +64,6 @@ E:\GitHub\LC-02\LC-02\bin\System.Web.WebPages.Deployment.xml
 E:\GitHub\LC-02\LC-02\bin\System.Web.WebPages.Razor.xml
 E:\GitHub\LC-02\LC-02\bin\Antlr3.Runtime.pdb
 E:\GitHub\LC-02\LC-02\bin\Newtonsoft.Json.xml
-E:\GitHub\LC-02\LC-02\obj\Debug\LC-02.csprojResolveAssemblyReference.cache
+E:\GitHub\LC-02\LC-02\bin\LC-02.Data.pdb
 E:\GitHub\LC-02\LC-02\obj\Debug\LC-02.dll
 E:\GitHub\LC-02\LC-02\obj\Debug\LC-02.pdb
-E:\GitHub\LC-02\LC-02\obj\Debug\LC_02.Migrations.InitialCreate.resources
-E:\GitHub\LC-02\LC-02\obj\Debug\LC-02.csproj.GenerateResource.Cache
-E:\GitHub\LC-02\LC-02\obj\Debug\LC_02.Migrations.firstMigrationPhoneNumber.resources
