@@ -67,3 +67,8 @@ E:\GitHub\LC-02\LC-02\bin\Newtonsoft.Json.xml
 E:\GitHub\LC-02\LC-02\bin\LC-02.Data.pdb
 E:\GitHub\LC-02\LC-02\obj\Debug\LC-02.dll
 E:\GitHub\LC-02\LC-02\obj\Debug\LC-02.pdb
+E:\GitHub\LC-02\LC-02\bin\SimpleInjector.Integration.Web.dll
+E:\GitHub\LC-02\LC-02\bin\SimpleInjector.Integration.Web.Mvc.dll
+E:\GitHub\LC-02\LC-02\bin\WebActivator.dll
+E:\GitHub\LC-02\LC-02\bin\SimpleInjector.Integration.Web.xml
+E:\GitHub\LC-02\LC-02\bin\SimpleInjector.Integration.Web.Mvc.xml
