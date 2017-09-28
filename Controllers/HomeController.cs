@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Data.Entity.Migrations;
 using System.Web.Mvc;
 using LC_02.Services.Infrastucture;
+using LC_02.Services.Project;
 using LC_02.Services.Students;
 
 namespace LC_02.Controllers
@@ -17,9 +18,13 @@ namespace LC_02.Controllers
         }
         public ActionResult Index()
         {
-            var studentDto = new StudentDto();
-            studentDto.Email = "addedEmail";
-            studentDto.FirstName = "addedFirstName";
+            var studentDto = new StudentDto
+            {
+                Email = "addedEmail",
+                FirstName = "addedFirstName",
+                ProfessorId = 1,
+                Projects = new List<ProjectDto>()
+            };
             studentService.AddNewStudent(studentDto);
             return View();
         }
